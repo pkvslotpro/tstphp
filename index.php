@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html ⚡ lang="id">
+<!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -423,6 +423,7 @@ body {
 	box-shadow: 0 0 5px 0#d00202
 }
 
+
 .logo69 img,
 .bank img,
 .lc img,
@@ -678,6 +679,7 @@ table.bes th {
 }
 </script>
 </head>
+
 <body>
 <div class="navbar">
 	<div class="container">
